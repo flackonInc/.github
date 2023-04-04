@@ -13,7 +13,7 @@ Naming a branch depednds on the changes you are working on and the type of chang
 |------|---------|---------|
 | New features | `<author-name>/feature/<feature-name>_issue<issue-id>` | `devpal/feature/intorduce-storage_issue122` |
 | Bug Fix | `<author-name>/bug/<bug-name>_issue<issue-id>` | `devpal/bug/auth-error_issue123` |
-| Hotfix (urgent bug fuxes) | `<author-name>/hotfix/<bug-name>_issue<issue-id>` | `devpal/hotfix/docusign-regression_issue124` |
+| Hotfix (urgent bug fixes) | `<author-name>/hotfix/<bug-name>_issue<issue-id>` | `devpal/hotfix/docusign-regression_issue124` |
 | Maintenance | `<author-name>/maintenance/<maintenance-name>_issue<issue-id>` | `devpal/maintenance/run-integration-tests-in-workflows_issue125` |
 
 2. Ensure branch name represents what the branch is about (avoid using names like `fix/bug-fix`, etc)
