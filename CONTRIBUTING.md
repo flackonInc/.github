@@ -29,8 +29,6 @@ Add `?quick_pull=1&template=<TEMPLATE_NAME>` to end of PR url.
 
 Example URL to create PR: https://github.com/flackonInc/docupilot-ui/compare/main...multipage?quick_pull=1&template=feature-frontend.md .</br>
 
-![Example Image](https://github.com/flackonInc/.github/blob/devpal/feature/instrunction-to-follow-while-creating-pr_issue4/MEDIA/example_pr_img.png)</br>
-
 
 Follow below points while creating the PR's.
 
