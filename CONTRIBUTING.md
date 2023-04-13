@@ -21,6 +21,17 @@ Naming a branch depednds on the changes you are working on and the type of chang
 
 ## PullRequest conventions
 
+While creating the PR we must use the PR’s - templates available in [common repository](https://github.com/flackonInc/.github/tree/main/PULL_REQUEST_TEMPLATE).
+Add `?quick_pull=1&template=<TEMPLATE_NAME>` to end of PR url.
+
+* For backend projects, use template [feature-backend.md](https://github.com/flackonInc/.github/blob/main/PULL_REQUEST_TEMPLATE/feature-frontend.md)
+* For frontend projects, use the template [feature-frontend.md](https://github.com/flackonInc/.github/blob/main/PULL_REQUEST_TEMPLATE/feature-frontend.md) </br>
+
+Example URL to create PR: https://github.com/flackonInc/docupilot-ui/compare/main...multipage?quick_pull=1&template=feature-frontend.md .</br>
+
+
+Follow below points while creating the PR's.
+
 * Ensure PR title hints the changes made in head branch appropriately
 * Ensure PR desciption explains all the changes made in head branch in detail
 * Ensure all commits are linear (no merge commits)
