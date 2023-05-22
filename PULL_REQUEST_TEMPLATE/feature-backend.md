@@ -1,7 +1,5 @@
 **Title:**
 
-**PR type (Bug fix/ Tech Story/ Enhancement):**
-
 **Description of changes done:** (If it's API change, mention request and response structure too)
 
 
