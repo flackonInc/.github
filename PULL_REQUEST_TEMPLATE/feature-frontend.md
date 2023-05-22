@@ -1,7 +1,13 @@
-**Description:**
+**Title:**
 
-<!-- add your description here -->
+**PR type (Bug fix/ Tech Story/ Enhancement):**
 
+**Description of changes done:**
+
+
+**Potential impact areas (if any):**
+
+**Screenshots/Recordings:**
 
 **Checklist:**
 - [ ] feature tested manually 👨‍🔬 🧪

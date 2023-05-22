@@ -1,7 +1,12 @@
-**Description:**
+**Title:**
 
-<!-- add your description here -->
+**PR type (Bug fix/ Tech Story/ Enhancement):**
 
+**Description of changes done:** (If it's API change, mention request and response structure too)
+
+**Potential impact areas (if any):**
+
+**Screenshots/Recordings (if any UI changes):**
 
 **Checklist:**
 - [ ] feature tested manually 👨‍🔬 🧪
