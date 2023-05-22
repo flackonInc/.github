@@ -1,7 +1,5 @@
 **Title:**
 
-**PR type (Bug fix/ Tech Story/ Enhancement):**
-
 **Description of changes done:**
 
 
