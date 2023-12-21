@@ -11,10 +11,10 @@ Naming a branch depednds on the changes you are working on and the type of chang
 
 | Type | Pattern | Example |
 |------|---------|---------|
-| New features | `<author-name>/feature/<feature-name>_issue<issue-id>` | `devpal/feature/intorduce-storage_issue122` |
-| Bug Fix | `<author-name>/bug/<bug-name>_issue<issue-id>` | `devpal/bug/auth-error_issue123` |
-| Hotfix (urgent bug fixes) | `<author-name>/hotfix/<bug-name>_issue<issue-id>` | `devpal/hotfix/docusign-regression_issue124` |
-| Maintenance | `<author-name>/maintenance/<maintenance-name>_issue<issue-id>` | `devpal/maintenance/run-integration-tests-in-workflows_issue125` |
+| New features | `feature/<feature-name>` | `feature/intorduce-xyz-delivery` |
+| Bug Fix | `fix/<fix-name>` | `fix/auth-error` |
+| Hotfix (urgent bug fixes) | `hotfix/<fix-name>` | `hotfix/docusign-regression` |
+| Maintenance | `maintenance/<maintenance-name>` | `maintenance/run-integration-tests-in-workflows` |
 
 2. Ensure branch name represents what the branch is about (avoid using names like `fix/bug-fix`, etc)
 
