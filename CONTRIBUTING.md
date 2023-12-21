@@ -9,12 +9,13 @@ Naming a branch depednds on the changes you are working on and the type of chang
 
 1. Following branch naming patterns are recommended:
 
-| Type | Pattern | Example |
-|------|---------|---------|
-| New features | `feature/<feature-name>` | `feature/intorduce-xyz-delivery` |
-| Bug Fix | `fix/<fix-name>` | `fix/auth-error` |
-| Hotfix (urgent bug fixes) | `hotfix/<fix-name>` | `hotfix/docusign-regression` |
-| Maintenance | `maintenance/<maintenance-name>` | `maintenance/run-integration-tests-in-workflows` |
+| Type | Pattern | Example | Notes |
+|------|---------|---------|-------|
+| New features | `feature/<feature-name>` | `feature/intorduce-xyz-delivery` | Used for changes that can be categorised as new features |
+| Bug Fix | `fix/<fix-name>` | `fix/auth-error` | Used for changes that can be categorised as bug fixes |
+| Hotfix (urgent bug fixes) | `hotfix/<fix-name>` | `hotfix/docusign-regression` | Used for changes that can be categorised as hotfixs |
+| Maintenance | `maintenance/<maintenance-name>` | `maintenance/run-integration-tests-in-workflows` | Used for changes that can be categorised as internal maintenance that would help in long term |
+| Development | `<author>/<details>` | `devpal/tfa-poc` | Used to manage other tasks that do not fit into above. Often these branches should be converted into one of the above branches (or split into multiple branches of above types) and taken forward |
 
 2. Ensure branch name represents what the branch is about (avoid using names like `fix/bug-fix`, etc)
 
