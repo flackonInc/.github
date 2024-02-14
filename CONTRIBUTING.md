@@ -14,6 +14,7 @@ Naming a branch depednds on the changes you are working on and the type of chang
 | New features | `feature/<feature-name>` | `feature/intorduce-xyz-delivery` | Used for changes that can be categorised as new features |
 | Bug Fix | `fix/<fix-name>` | `fix/auth-error` | Used for changes that can be categorised as bug fixes |
 | Hotfix (urgent bug fixes) | `hotfix/<fix-name>` | `hotfix/docusign-regression` | Used for changes that can be categorised as hotfixs |
+| Security Updates/Fixes | `security/<solution-name>` | `security/suppress-server-headers` | Used for changes that can be categorised as security fixes or enhancements |
 | Maintenance | `maintenance/<maintenance-name>` | `maintenance/run-integration-tests-in-workflows` | Used for changes that can be categorised as internal maintenance that would help in long term |
 | Development | `<author>/<details>` | `devpal/tfa-poc` | Used to manage other tasks that do not fit into above. Often these branches should be converted into one of the above branches (or split into multiple branches of above types) and taken forward |
 
@@ -35,8 +36,7 @@ Follow below points while creating the PR's.
 
 * Ensure PR title hints the changes made in head branch appropriately
 * Ensure PR desciption explains all the changes made in head branch in detail
-* Ensure all commits are linear (no merge commits)
-* Use `Rebase and Merge` option to land PRs once all checks are approved
+* Use `Squash and Merge` option to land PRs once all checks are approved
 
 
 ## Commit message conventions
