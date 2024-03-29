@@ -7,6 +7,8 @@
 - [ ] feature tested manually 👨‍🔬 🧪
 - [ ] supporting test cases added 🚀 💼
 - [ ] code is readable - added necessary doc comments 👨‍🏭 🗒️
+- [ ] translation keys added 🌐 🗝️
+- [ ] dpqa automation attributes added 🤖 🧪
 
 **Related issues:**
 
