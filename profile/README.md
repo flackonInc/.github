@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Welcome to Flackon, Inc's Git. Here we collaborate and manage our cutting-edge document automation tool Docupilot.
+Welcome to Docupilot, Inc's Git. Here we collaborate and manage our cutting-edge document automation tool Docupilot.
 Docupilot is designed to revolutionize how businesses create and manage documents. Leveraging advanced technology,
 including Python, Django, Node.js, and React.js, it offers a robust, user-friendly platform for automating complex
 document processes. From custom report generation to automated contract creation, DocuPilot simplifies tasks,
